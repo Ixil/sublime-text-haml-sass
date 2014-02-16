@@ -6,6 +6,7 @@
 	<array>
 		<string>sass</string>
 		<string>scss</string>
+		<string>scss.erb</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*|^#|^\*|^\b|^\.</string>
